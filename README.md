@@ -1,4 +1,7 @@
-# api documentation for  [if-env (v1.0.0)](https://github.com/ericclemmons/if-env#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-if-env.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-if-env) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-if-env.svg)](https://travis-ci.org/npmdoc/node-npmdoc-if-env)
+# npmdoc-if-env
+
+#### basic api documentation for  [if-env (v1.0.0)](https://github.com/ericclemmons/if-env#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-if-env.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-if-env) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-if-env.svg)](https://travis-ci.org/npmdoc/node-npmdoc-if-env)
+
 #### Simplify npm scripts with "if-env ... && npm run this || npm run that"
 
 [![NPM](https://nodei.co/npm/if-env.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/if-env)
